@@ -10,7 +10,7 @@ body {
 
 .bg-image {
     background-image: url('https://m.media-amazon.com/images/I/51ZVeRqZvGL._SX3000_.jpg');
-    width: 100%;
+    width: 984px;
     height: 100%;
     object-fit: cover;
 }
@@ -18,7 +18,7 @@ body {
 .product-cards {
     position: absolute;
     top: 250px;
-    left: 50%;
+    left: 492px;
     transform: translateX(-50%);
     display: flex;
     z-index: 1;
